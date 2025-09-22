@@ -1,0 +1,11 @@
+geometry: demo_hull
+speed: 8.0
+draft: 7.0
+froude_number: 0.25
+reynolds_number: 1.5e8
+fluid:
+  density: 1025.0
+  viscosity: 0.0011
+turbulence_model: k-omega-sst
+solver_options:
+  max_iterations: 1000

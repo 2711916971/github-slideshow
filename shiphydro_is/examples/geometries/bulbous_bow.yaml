@@ -1,0 +1,12 @@
+name: demo_hull
+lpp: 120.0
+beam: 20.0
+depth: 12.0
+draft: 7.5
+cb: 0.62
+bulbous_bow:
+  length_ratio: 0.08
+  radius_ratio: 0.12
+sections:
+  - [0.0, 0.4, 0.8]
+  - [0.0, 0.5, 1.0]
